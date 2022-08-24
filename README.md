@@ -10,7 +10,8 @@ This is to show terminal commands or notes useful for the Supra Coders program.
 -  note: npx is node package executor
 -  To run, use command `npm start`
 -  Import React dependecies/libraries:
--  react-router: ``
+-  react-router: `npm install react-router`, `npm install react-router-dom`
+-  styled-components: `npm install styled-components`
 
 2. Install Cypress and testing library `npm install --save-dev cypress @testing-library/cypress`
 -  To run, use command `npm cypress open`
