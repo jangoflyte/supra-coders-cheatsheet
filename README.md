@@ -1,7 +1,7 @@
 # Supra Coders Cheatsheet
 This is to show terminal commands or notes useful for the Supra Coders program.
 
-# Javascrip
+# Javascript
 1. Installing Jest ``
 
 
