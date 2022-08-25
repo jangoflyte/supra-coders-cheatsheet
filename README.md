@@ -15,3 +15,5 @@ This is to show terminal commands or notes useful for the Supra Coders program.
 
 2. Install Cypress and testing library `npm install --save-dev cypress @testing-library/cypress`
 -  To run, use command `npm cypress open`
+
+3. Install React testing ``
